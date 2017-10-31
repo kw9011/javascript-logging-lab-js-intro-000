@@ -1,2 +1,2 @@
-console.error("Hi
-")
+console.error("HALP!")
+
